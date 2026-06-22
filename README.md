@@ -8,6 +8,9 @@ Currently hunting vulnerabilities in OSS while building AI SAST and a threat int
 
 Open to collaborating on AppSec, vulnerability research, AI security, cloud security, detection engineering, and offensive/defensive security tooling.
 
+Featured researches:
+- [Malicious Operational Logic
+Observation Transformer](https://arxiv.org/pdf/2606.07792)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lexdotdev/lexdotdev/output/github-contribution-grid-snake-dark.svg">
