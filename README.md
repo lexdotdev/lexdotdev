@@ -12,6 +12,12 @@ Featured researches:
 - [Malicious Operational Logic
 Observation Transformer](https://arxiv.org/pdf/2606.07792)
 
+Some OSS vulnerabilities that I've found:
+- [Path Traversal in filebrowser](https://github.com/filebrowser/filebrowser/security/advisories/GHSA-fmm7-x4gx-8jhr) - 35.5k ⭐
+- [Sandbox bypass via file URI parsing in anyquery](https://github.com/julien040/anyquery/security/advisories/GHSA-j4wj-p47h-f9cc) - 1.7k ⭐
+- [SSRF in utcp-http](https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-9qhg-99ww-9mqc) 
+- [OS Command Injection in Network-AI](https://github.com/advisories/GHSA-qw6v-5fcf-5666)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lexdotdev/lexdotdev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lexdotdev/lexdotdev/output/github-contribution-grid-snake.svg">
