@@ -13,6 +13,7 @@ Observation Transformer](https://arxiv.org/pdf/2606.07792)
 Some OSS vulnerabilities that I've found:
 - [Path Traversal in filebrowser](https://github.com/filebrowser/filebrowser/security/advisories/GHSA-fmm7-x4gx-8jhr) - 35.5k ⭐
 - [JWT bypass to RCE in FUXA](https://github.com/frangoteam/FUXA/security/advisories/GHSA-5h5x-9h7x-23f4) - 4.7k ⭐
+- [Improper Control of Dynamically-Managed Code Resources in vm2](https://github.com/patriksimek/vm2/security/advisories/GHSA-8hr7-r645-pc6w) - 4.1k ⭐
 - [Sandbox bypass via file URI parsing in anyquery](https://github.com/julien040/anyquery/security/advisories/GHSA-j4wj-p47h-f9cc) - 1.7k ⭐
 - [SSTI to RCE in microsoft/prompty](https://github.com/microsoft/prompty/security/advisories/GHSA-w28w-gp39-m4p6) - 1.2k ⭐
 - [SSRF in utcp-http](https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-9qhg-99ww-9mqc) 
